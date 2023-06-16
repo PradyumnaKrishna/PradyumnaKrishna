@@ -1,16 +1,9 @@
-<img src="logo.svg" align="right" height="50" width="50"/>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css">
+# Hi, I'm Pradyumna
 
-### Hi, I'm Pradyumna 👋
+[Website](https://pradyumna.me) &bull; [Email](mailto:git@onpy.in) &bull; [Twitter](https://twitter.com/iPradyumnaK) &bull; [LinkedIn](https://www.linkedin.com/in/pradyumnakrishna)
 
-- 🔭 I’m currently working on **something**
-- 🌱 I’m currently learning **everything**
-- 👯 I’m looking to collaborate on **projects**
-- 🤔 I’m looking for help with **problems**
-- 💬 Ask me about **anything**
-- 📫 How to reach me: 🚀
-- ⚡ Fun fact: I am Pradyumna, Son of Krishna (कृष्ण) <!-- This is reality 😁-->
-- 👨🏻‍💻 Socials
-  - Watch my videos on **[Youtube](https://www.youtube.com/channel/UCh6sy-q0eHVl840GdYFJLMA)**<br>
-  - Read my blogs on **[Medium](https://pradyumnakrishna.medium.com)**<br>
-  - Follow me on **[Twitter](https://twitter.com/iPradyumnaK)**
+I'm a Masters of Computer Science Student at Banaras Hindu University. Passionate about Cybersecurity, DevOps and Tech Stuff. I loves to build scalable systems, web applications, and productivity tools.
+
+As a tech enthusiast, I look forward to explore and learn new technologies and tinker with them. I enjoy working as an active open-source contributor.
+
+I usually work on projects in my free time, find some of them on my GitHub.
